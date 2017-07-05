@@ -6,19 +6,22 @@
     <description>Recent content on wonslung Fire Stick help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Released under the BSD license</copyright>
+    <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Sun, 02 Jul 2017 01:23:23 -0400</lastBuildDate>
     
 	<atom:link href="https://wonslung.github.io/firestickhelp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welcome to wonslung Fire Sticks</title>
+      <title>wonslung Fire Sticks</title>
       <link>https://wonslung.github.io/firestickhelp/</link>
       <pubDate>Sun, 02 Jul 2017 01:23:23 -0400</pubDate>
       
       <guid>https://wonslung.github.io/firestickhelp/</guid>
-      <description> Thanks for buying a wonslung Fire Stick Table of Contents:  Getting Started  What&amp;rsquo;s in the Box Connecting the Fire Stick The Remote  Kodi Frequently Asked Questions Trouble Shooting
+      <description> Thanks for buying a wonslung Fire Stick Table of Contents:  Getting Started  What&amp;rsquo;s in the Box Connecting the Fire Stick The Remote Connecting to wifi  Navigating FireOS
+ Kodi
+ Frequently Asked Questions
+ Trouble Shooting
 by wonslung  </description>
     </item>
     
@@ -35,12 +38,26 @@ you can use a powered usb port instead of the wall adapter if your television ha
     </item>
     
     <item>
+      <title>Navigating Fire Os</title>
+      <link>https://wonslung.github.io/firestickhelp/fireos/</link>
+      <pubDate>Wed, 05 Jul 2017 04:54:42 -0400</pubDate>
+      
+      <guid>https://wonslung.github.io/firestickhelp/fireos/</guid>
+      <description>Navigating Menus Use the navigation button on the remote to move through the menus. You can always return to the &amp;ldquo;Home&amp;rdquo; Menu by pushing the &amp;#x2302; (Home) button on the remote
+
+Most users want to get into Kodi Immediately. This is done by navigating down to &amp;ldquo;My Apps and Games&amp;rdquo; from the &amp;ldquo;Home&amp;rdquo; menu and selecting the Kodi App. Menu Options Attention
+Unless you have Amazon Prime&amp;trade; The &amp;ldquo;Your Videos, Movies, and TV Shows&amp;rdquo; will cost money.</description>
+    </item>
+    
+    <item>
       <title>Kodi</title>
       <link>https://wonslung.github.io/firestickhelp/kodi/</link>
       <pubDate>Sun, 02 Jul 2017 04:52:25 -0400</pubDate>
       
       <guid>https://wonslung.github.io/firestickhelp/kodi/</guid>
-      <description> How to use kodi foo bar </description>
+      <description>What is Kodi? Kodi is a piece of software designed to serve as a media center. With third party addons, it can stream media from all over the internet.
+How to use Kodi. (content)
+Todo: Finish this Section</description>
     </item>
     
     <item>
@@ -49,7 +66,7 @@ you can use a powered usb port instead of the wall adapter if your television ha
       <pubDate>Wed, 05 Jul 2017 01:44:46 -0400</pubDate>
       
       <guid>https://wonslung.github.io/firestickhelp/faqs/</guid>
-      <description> foo bar </description>
+      <description>How do i register my Fire Stick to my Amazon account?  Make sure you have setup wifi Navigate to Settings Navigate to My Account and press the select button on your remote Press the select button on your remote to confirm Enter in your Amazon account information  Do I need an Amazon Account to use a wonslung Fire Stick? I set up each wonslung Fire Stick with a placeholder amazon account.</description>
     </item>
     
     <item>
@@ -59,6 +76,18 @@ you can use a powered usb port instead of the wall adapter if your television ha
       
       <guid>https://wonslung.github.io/firestickhelp/trouble-shooting/</guid>
       <description> foo bar </description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://wonslung.github.io/firestickhelp/license/</link>
+      <pubDate>Wed, 09 Mar 2016 20:10:46 +0100</pubDate>
+      
+      <guid>https://wonslung.github.io/firestickhelp/license/</guid>
+      <description>Copyright &amp;copy; 2017 wonslung wonslung@gmail.com
+Copyright &amp;copy; 2016 Digitalcraftsman digitalcraftsman@protonmail.com
+Copyright &amp;copy; 2016 Martin Donath martin.donath@squidfunk.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
     </item>
     
   </channel>

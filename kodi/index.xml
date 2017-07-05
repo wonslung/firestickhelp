@@ -6,7 +6,7 @@
     <description>Recent content in Kodis on wonslung Fire Stick help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Released under the BSD license</copyright>
+    <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Sun, 02 Jul 2017 04:52:25 -0400</lastBuildDate>
     
 	<atom:link href="https://wonslung.github.io/firestickhelp/kodi/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,9 @@
       <pubDate>Sun, 02 Jul 2017 04:52:25 -0400</pubDate>
       
       <guid>https://wonslung.github.io/firestickhelp/kodi/</guid>
-      <description> How to use kodi foo bar </description>
+      <description>What is Kodi? Kodi is a piece of software designed to serve as a media center. With third party addons, it can stream media from all over the internet.
+How to use Kodi. (content)
+Todo: Finish this Section</description>
     </item>
     
   </channel>

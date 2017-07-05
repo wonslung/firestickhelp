@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://wonslung.github.io/firestickhelp/fireos/</loc>
+    <lastmod>2017-07-05T04:54:42-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wonslung.github.io/firestickhelp/kodi/</loc>
     <lastmod>2017-07-02T04:52:25-04:00</lastmod>
   </url>
@@ -28,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://wonslung.github.io/firestickhelp/license/</loc>
+    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wonslung.github.io/firestickhelp/categories/</loc>
     <priority>0</priority>
   </url>
@@ -35,6 +45,12 @@
   <url>
     <loc>https://wonslung.github.io/firestickhelp/faqs/</loc>
     <lastmod>2017-07-05T01:44:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/fireos/</loc>
+    <lastmod>2017-07-05T04:54:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,6 +63,12 @@
   <url>
     <loc>https://wonslung.github.io/firestickhelp/kodi/</loc>
     <lastmod>2017-07-02T04:52:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/license/</loc>
+    <lastmod>2016-03-09T20:10:46+01:00</lastmod>
     <priority>0</priority>
   </url>
   

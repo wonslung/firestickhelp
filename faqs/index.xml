@@ -6,7 +6,7 @@
     <description>Recent content in Faqs on wonslung Fire Stick help</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Released under the BSD license</copyright>
+    <copyright>Released under the MIT license</copyright>
     <lastBuildDate>Wed, 05 Jul 2017 01:44:46 -0400</lastBuildDate>
     
 	<atom:link href="https://wonslung.github.io/firestickhelp/faqs/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Wed, 05 Jul 2017 01:44:46 -0400</pubDate>
       
       <guid>https://wonslung.github.io/firestickhelp/faqs/</guid>
-      <description> foo bar </description>
+      <description>How do i register my Fire Stick to my Amazon account?  Make sure you have setup wifi Navigate to Settings Navigate to My Account and press the select button on your remote Press the select button on your remote to confirm Enter in your Amazon account information  Do I need an Amazon Account to use a wonslung Fire Stick? I set up each wonslung Fire Stick with a placeholder amazon account.</description>
     </item>
     
   </channel>
