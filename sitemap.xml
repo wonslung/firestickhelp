@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/</loc>
+    <lastmod>2017-07-02T01:23:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/getting-started/</loc>
+    <lastmod>2017-07-01T23:32:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/kodi/</loc>
+    <lastmod>2017-07-02T04:52:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/faqs/</loc>
+    <lastmod>2017-07-05T01:44:46-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/trouble-shooting/</loc>
+    <lastmod>2017-07-05T01:44:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/faqs/</loc>
+    <lastmod>2017-07-05T01:44:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/getting-started/</loc>
+    <lastmod>2017-07-01T23:32:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/kodi/</loc>
+    <lastmod>2017-07-02T04:52:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/trouble-shooting/</loc>
+    <lastmod>2017-07-05T01:44:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/</loc>
+    <lastmod>2017-07-02T01:23:23-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

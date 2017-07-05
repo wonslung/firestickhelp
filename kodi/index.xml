@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kodis on wonslung Fire Stick help</title>
+    <link>https://wonslung.github.io/firestickhelp/kodi/</link>
+    <description>Recent content in Kodis on wonslung Fire Stick help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the BSD license</copyright>
+    <lastBuildDate>Sun, 02 Jul 2017 04:52:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://wonslung.github.io/firestickhelp/kodi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kodi</title>
+      <link>https://wonslung.github.io/firestickhelp/kodi/</link>
+      <pubDate>Sun, 02 Jul 2017 04:52:25 -0400</pubDate>
+      
+      <guid>https://wonslung.github.io/firestickhelp/kodi/</guid>
+      <description> How to use kodi foo bar </description>
+    </item>
+    
+  </channel>
+</rss>
