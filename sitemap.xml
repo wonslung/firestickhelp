@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wonslung.github.io/firestickhelp/</loc>
-    <lastmod>2017-07-02T01:23:23-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wonslung.github.io/firestickhelp/getting-started/</loc>
     <lastmod>2017-07-01T23:32:40-04:00</lastmod>
   </url>
@@ -35,6 +30,16 @@
   <url>
     <loc>https://wonslung.github.io/firestickhelp/license/</loc>
     <lastmod>2016-03-09T20:10:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/index.json</loc>
+    <lastmod>2017-07-02T01:23:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/</loc>
+    <lastmod>2017-07-02T01:23:23-04:00</lastmod>
   </url>
   
   <url>
@@ -85,7 +90,7 @@
   
   <url>
     <loc>https://wonslung.github.io/firestickhelp/</loc>
-    <lastmod>2017-07-02T01:23:23-04:00</lastmod>
+    <lastmod>2017-07-01T23:32:40-04:00</lastmod>
     <priority>0</priority>
   </url>
   

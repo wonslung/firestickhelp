@@ -7,23 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license</copyright>
-    <lastBuildDate>Sun, 02 Jul 2017 01:23:23 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2017 23:32:40 -0400</lastBuildDate>
     
 	<atom:link href="https://wonslung.github.io/firestickhelp/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>wonslung Fire Sticks</title>
-      <link>https://wonslung.github.io/firestickhelp/</link>
-      <pubDate>Sun, 02 Jul 2017 01:23:23 -0400</pubDate>
-      
-      <guid>https://wonslung.github.io/firestickhelp/</guid>
-      <description> Thanks for buying a wonslung Fire Stick Table of Contents:  Getting Started  What&amp;rsquo;s in the Box Connecting the Fire Stick The Remote Connecting to wifi  Navigating FireOS
- Kodi
- Frequently Asked Questions
- Trouble Shooting
-by wonslung  </description>
-    </item>
     
     <item>
       <title>Getting Started</title>
@@ -90,6 +77,25 @@ These instructions are specific to the wonslung FireStick Skin kodi build</descr
 Copyright &amp;copy; 2016 Digitalcraftsman digitalcraftsman@protonmail.com
 Copyright &amp;copy; 2016 Martin Donath martin.donath@squidfunk.com
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wonslung.github.io/firestickhelp/index.json</link>
+      <pubDate>Sun, 02 Jul 2017 01:23:23 -0400</pubDate>
+      
+      <guid>https://wonslung.github.io/firestickhelp/index.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wonslung Fire Sticks and build</title>
+      <link>https://wonslung.github.io/firestickhelp/</link>
+      <pubDate>Sun, 02 Jul 2017 01:23:23 -0400</pubDate>
+      
+      <guid>https://wonslung.github.io/firestickhelp/</guid>
+      <description> Thanks for using a wonslung Fire Stick Table of Contents:  Getting Started  What&amp;rsquo;s in the Box Connecting the Fire Stick The Remote Connecting to wifi  Navigating FireOS  Navigating Menus Menu Options  Kodi  What is Kodi? How to navigate Kodi Main menu drop down menus Kodi menu widgets Overview of menu items  Frequently Asked Questions Trouble Shooting
+by wonslung  </description>
     </item>
     
   </channel>
