@@ -80,6 +80,16 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
     </item>
     
     <item>
+      <title>Upgrading the Build</title>
+      <link>https://wonslung.github.io/firestickhelp/upgrading/</link>
+      <pubDate>Wed, 02 Aug 2017 12:51:34 -0400</pubDate>
+      
+      <guid>https://wonslung.github.io/firestickhelp/upgrading/</guid>
+      <description>Reasons to Upgrade I upgrade the build every so often. The addons in your build SHOULD update on their own regardless of whether or not you decide to install my build updates. (There are exceptions to this rule however) There are a few different reasons I might decide to push an update. Normally it&amp;rsquo;s for one or more of the following reasons:
+ Add new addons Modify the menus Add new repositories Change default addons used for a TV or movies Fix a bug Improve Performance Remove non working addons  How to Upgrade to the latest version The wonslung Wizard SHOULD automatically let you know if there is an update via a popup message similar to the one shown below:</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://wonslung.github.io/firestickhelp/index.json</link>
       <pubDate>Sun, 02 Jul 2017 01:23:23 -0400</pubDate>
@@ -94,7 +104,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
       <pubDate>Sun, 02 Jul 2017 01:23:23 -0400</pubDate>
       
       <guid>https://wonslung.github.io/firestickhelp/</guid>
-      <description> Thanks for using a wonslung Fire Stick Table of Contents:  Getting Started  What&amp;rsquo;s in the Box Connecting the Fire Stick The Remote Connecting to wifi  Navigating FireOS  Navigating Menus Menu Options  Kodi  What is Kodi? How to navigate Kodi Main menu drop down menus Kodi menu widgets Overview of menu items  Frequently Asked Questions Trouble Shooting
+      <description> Thanks for using a wonslung Fire Stick Table of Contents:  Getting Started  What&amp;rsquo;s in the Box Connecting the Fire Stick The Remote Connecting to wifi  Navigating FireOS  Navigating Menus Menu Options  Kodi  What is Kodi? How to navigate Kodi Main menu drop down menus Kodi menu widgets Overview of menu items  Upgrading the Build Frequently Asked Questions Trouble Shooting
 by wonslung  </description>
     </item>
     

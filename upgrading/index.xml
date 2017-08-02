@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upgradings on wonslung Fire Stick help</title>
+    <link>https://wonslung.github.io/firestickhelp/upgrading/</link>
+    <description>Recent content in Upgradings on wonslung Fire Stick help</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Wed, 02 Aug 2017 12:51:34 -0400</lastBuildDate>
+    
+	<atom:link href="https://wonslung.github.io/firestickhelp/upgrading/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upgrading the Build</title>
+      <link>https://wonslung.github.io/firestickhelp/upgrading/</link>
+      <pubDate>Wed, 02 Aug 2017 12:51:34 -0400</pubDate>
+      
+      <guid>https://wonslung.github.io/firestickhelp/upgrading/</guid>
+      <description>Reasons to Upgrade I upgrade the build every so often. The addons in your build SHOULD update on their own regardless of whether or not you decide to install my build updates. (There are exceptions to this rule however) There are a few different reasons I might decide to push an update. Normally it&amp;rsquo;s for one or more of the following reasons:
+ Add new addons Modify the menus Add new repositories Change default addons used for a TV or movies Fix a bug Improve Performance Remove non working addons  How to Upgrade to the latest version The wonslung Wizard SHOULD automatically let you know if there is an update via a popup message similar to the one shown below:</description>
+    </item>
+    
+  </channel>
+</rss>

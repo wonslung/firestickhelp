@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://wonslung.github.io/firestickhelp/upgrading/</loc>
+    <lastmod>2017-08-02T12:51:34-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wonslung.github.io/firestickhelp/index.json</loc>
     <lastmod>2017-07-02T01:23:23-04:00</lastmod>
   </url>
@@ -85,6 +90,12 @@
   <url>
     <loc>https://wonslung.github.io/firestickhelp/trouble-shooting/</loc>
     <lastmod>2017-07-05T01:44:19-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wonslung.github.io/firestickhelp/upgrading/</loc>
+    <lastmod>2017-08-02T12:51:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
