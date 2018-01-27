@@ -2,11 +2,29 @@
  <channel>
   <title>wonslung Builds</title>
   <item>
+   <title>wonslung FireStick Skin updated to 2.2</title>
+  </item>
+  <item>
+   <title>Fixed Api keys for most video addons in version 2.2</title>
+  </item>
+  <item>
+   <title>Added I am Absolem addon to the EXTRA section</title>
+  </item>
+  <item>
+   <title>Added M.E.T.V Addon to EXTRA</title>
+  </item>
+  <item>
+   <title>Added Verdict Addon to IPTV and Extra</title>
+  </item>
+  <item>
+   <title>Added Made in Canada to IPTV</title>
+  </item>
+  <item>
    <title>wonslung FireStick Skin updated to 2.0</title>
   </item>
   <item>
    <title>Changed skin to aeon nox</title>
-  </item>
+  </ite>
   <item>
    <title>Removed superfavourites and reintroduced submenus due to speed</title>
   </item>
