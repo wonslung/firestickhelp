@@ -2,6 +2,69 @@
  <channel>
   <title>wonslung Builds</title>
   <item>
+   <title>wonslung FireStick Skin updated to 2.3</title>
+  </item>
+  <item>
+   <title>Fixed API keys again (Everyone should consider a personal themoviedb api key)</title>
+  </item>
+  <item>
+   <title>Switched main Tv/Movie addon to Exodus</title>
+  </item>
+  <item>
+   <title>Added Ultimate IPTV addon</title>
+  </item>
+  <item>
+   <title>Added Stream Hub addon</title>
+  </item>
+  <item>
+   <title>Added *Star-Tek* addon</title>
+  </item>
+  <item>
+   <title>Added Cerebrus addon</title>
+  </item>
+  <item>
+   <title>Added Netstreams AIO addon</title>
+  </item>
+  <item>
+   <title>Added Rising Tides addon</title>
+  </item>
+  <item>
+   <title>Added Boom addons</title>
+  </item>
+  <item>
+   <title>Added Quantum addon</title>
+  </item>
+  <item>
+   <title>Added Back in Time addon</title>
+  </item>
+  <item>
+   <title>Added Dr Doom addon</title>
+  </item>
+  <item>
+   <title>Added Insomniac addon</title>
+  </item>
+  <item>
+   <title>Added Fantastic Beasts addon</title>
+  </item>
+  <item>
+   <title>Added Kids Korner V2 addon</title>
+  </item>
+  <item>
+   <title>Added Brettus Documentaries addon</title>
+  </item>
+  <item>
+   <title>Added That Mix Tape addon</title>
+  </item>
+  <item>
+   <title>Added Sg Music Box addon</title>
+  </item>
+  <item>
+   <title>Added Okies Karaoke addon</title>
+  </item>
+  <item>
+   <title>Added Datpiff addon</title>
+  </item>
+  <item>
    <title>wonslung FireStick Skin updated to 2.2</title>
   </item>
   <item>
@@ -24,7 +87,7 @@
   </item>
   <item>
    <title>Changed skin to aeon nox</title>
-  </ite>
+ </item>
   <item>
    <title>Removed superfavourites and reintroduced submenus due to speed</title>
   </item>
